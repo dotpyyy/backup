@@ -19,7 +19,7 @@ public class MainClass
         String tglKmbli = null;
         int total = 0;
         while (true) {
-            System.out.println("-- Pemesanan Tiket --");
+            System.out.println("-- Pemesanan Barang --");
             System.out.print("Masukkan jumlah penumpang: ");
             int jumlah = Integer.parseInt(br.readLine());
             System.out.println("");
